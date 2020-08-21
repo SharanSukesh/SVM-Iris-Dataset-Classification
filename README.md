@@ -1,4 +1,4 @@
-# SVM-Iris-Dataset-Classification
+# SVM Iris Dataset Classification
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
